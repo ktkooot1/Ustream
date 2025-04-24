@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1,تصميم حسام البراك
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_5.m3u8
+
+#EXTINF:-1,https://t.me/Hussam_TVاشترك بقناتي
+https://h.top4top.io/m_31326etmz0.mkv
+
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true" tvg-id="beINSports1En.qa" ,Bein Sport 01
+http://kstv.us:8080/jgarcia31/224178522/12554
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg" tvg-id="beINSports2En.qa" ,Bein Sport 02
+http://kstv.us:8080/jgarcia31/224178522/12553
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports3.default.png?raw=true" tvg-id="4Music.uk" ,Bein Sport 03
+http://kstv.us:8080/jgarcia31/224178522/12552
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true" tvg-id="hallmark.us" ,Bein Sport 04
+http://kstv.us:8080/jgarcia31/224178522/12551
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports5.default.png?raw=true" tvg-id="beINSports.us" ,Bein Sport 05
+http://kstv.us:8080/jgarcia31/224178522/12550
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports6.default.png?raw=true" tvg-id="bein.sport.en.espanol.us" ,Bein Sport 06
+http://kstv.us:8080/jgarcia31/224178522/12549
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports7.default.png?raw=true" tvg-id="bein.sport.en.espanol.us" ,Bein Sport 07
+http://kstv.us:8080/jgarcia31/224178522/12548
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports8.default.png?raw=true" tvg-id="bein.sport.en.espanol.us" ,Bein Sport 08 News
+http://kstv.us:8080/jgarcia31/224178522/12547
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/Fourqui/tv/blob/master/misc/sports/ppv-live/BeIN_Xtra.png?raw=true" tvg-id="beinsportsxtra.us" ,Bein Sport 09  XTRA 1
+http://kstv.us:8080/jgarcia31/224178522/12546
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports10.png?raw=true" tvg-id="hallmark.us" ,Bein Sport 10 XTRA 2
+http://kstv.us:8080/jgarcia31/224178522/12545
+
+#EXTINF:-1 group-title="NBC Sports" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc_sports_bay_area.png" tvg-id="nbcsportsbayarea.us" ,US | NBC SPORTS (BAY AREA) HD
+http://kstv.us:8080/jgarcia31/224178522/28744
+#EXTINF:-1 group-title="NBC Sports" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc-sports-boston-us.png" tvg-id="nbcsportsboston.us" ,US | NBC SPORTS (BOSTON) HD
+http://kstv.us:8080/jgarcia31/224178522/28743
+#EXTINF:-1 group-title="NBC Sports" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nbc_sports_california.png" tvg-id="NBCSportsCalifornia.us" ,US | NBC Sports (California) HD
+http://kstv.us:8080/jgarcia31/224178522/28742
+#EXTINF:-1 group-title="NBC Sports" tvg-logo="https://tlgrm.re/images/nbcsn-philadelphia-us.png" tvg-id="NBCSportsPhiladelphia.us" ,US | NBC Sports (Philadelphia) HD
+http://kstv.us:8080/jgarcia31/224178522/28738
