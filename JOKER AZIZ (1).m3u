@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:0 CUID="44" tvg-name="Bien sport 1 🇶🇦 1280x720" tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 1 
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8 
+#EXTINF:0 CUID="45" tvg-name="Bien sport 1 🇶🇦 854x480" tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 1 
+http://bdd78.4rouwanda-shop.store/live/978480008877005/index.m3u8
+#EXTINF:0 CUID="46" tvg-name="BEIN SPORT 2 🇶🇦 1280x720" tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 2 
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:0 CUID="47" tvg-name="BEIN SPORT 2 🇶🇦 854x480" tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 2 
+http://bdd78.4rouwanda-shop.store/live/10011244/index.m3u8
+#EXTINF:0 CUID="49" tvg-name="Bien sport 3 🇶🇦 1920x1080" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 3 
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8 
+#EXTINF:0 CUID="50" tvg-name="Bien sport 3 🇶🇦 1280x720" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 3 
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:0 CUID="53" tvg-name="BEIN SPORT 4 🇶🇦" tvg-logo="https://bit.ly/3xKL7em" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 4 
+http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
+#EXTINF:0 CUID="54" tvg-name="BEIN SPORT 5 🇶🇦" tvg-logo="https://bit.ly/49TQJkd" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 5 
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+#EXTINF:0 CUID="58" tvg-name="BEIN SPORT 1" tvg-logo="https://bit.ly/3Uh0jsI" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 1
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:0 CUID="59" tvg-name="BEIN SPORT 2" tvg-logo="https://bit.ly/3W2zIB2" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 2
+https://stream.sainaertebat.com/hls2/bein2.m3u8
+#EXTINF:0 CUID="60" tvg-name="BEIN SPORT 3" tvg-logo="https://bit.ly/49G8YcH" group-title="BEIN SPORT بين سبور",JOKER BEIN AZIZ SPORT 3
+https://stream.sainaertebat.com/hls2/bein3.m3u8
+#EXTINF:0 CUID="62" tvg-name="BEIN SPORTS MENA 1" group-title="BEIN SPORT بين سبور",JOKER BEIN 1 4K AZIZ SPORT 
+http://45.139.122.148:8000/play/a004
+#EXTINF:0 CUID="63" tvg-name="BEIN SPORTS MENA 2" group-title="BEIN SPORT بين سبور",JOKER BEIN 2 4K AZIZ SPORT 
+http://45.139.122.148:8000/play/a005
+#EXTINF:0 CUID="64" tvg-name="BEIN SPORTS MENA 3" group-title="BEIN SPORT بين سبور",JOKER BEIN 3 4K AZIZ SPORT 
+http://45.139.122.148:8000/play/a006
+#EXTINF:0 CUID="65" tvg-name="BEIN SPORTS MENA 3" group-title="BEIN SPORT بين سبور",JOKER BEIN 3 4K AZIZ SPORT 
+http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:0 CUID="66" tvg-name="BEIN SPORTS MENA 4" group-title="BEIN SPORT بين سبور",JOKER BEIN 4 4K AZIZ SPORT 
+http://45.139.122.148:8000/play/a007
+#EXTINF:0 CUID="67" tvg-name="BEIN SPORTS MENA 5" group-title="BEIN SPORT بين سبور",JOKER BEIN 5 4K AZIZ SPORT 
+http://45.139.122.148:8000/play/a008
+#EXTINF:0 CUID="350" tvg-name="fajr1 1080" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr1 1080
+http://platform.topuphost.com:8577/live/alfajerhd.stream/playlist.m3u8
+#EXTINF:0 CUID="351" tvg-name="fajr1 480p" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr1 480p
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+#EXTINF:0 CUID="352" tvg-name="fajr 2" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 2
+http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
+#EXTINF:0 CUID="353" tvg-name="fajr 3" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 3
+http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
+#EXTINF:0 CUID="354" tvg-name="fajr 4" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 4
+http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
+#EXTINF:0 CUID="355" tvg-name="fajr 5" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",fajr 5
+#EXTINF:0 CUID="360" tvg-name="الفجر الجديد 1 FHD" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 1 FHD
+https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-1-HQ.php
+#EXTINF:0 CUID="361" tvg-name="الفجر الجديد 1" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 1
+https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-1.php
+#EXTINF:0 CUID="362" tvg-name="الفجر الجديد 2" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 2
+https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://tv.alfajertv.com/live-westbank-2.php
+#EXTINF:0 CUID="363" tvg-name="الفجر الجديد 3" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 3
+https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-3.php
+#EXTINF:0 CUID="364" tvg-name="الفجر الجديد 4" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 4
+https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-4.php
+#EXTINF:0 CUID="365" tvg-name="الفجر الجديد 5" tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="Fajer TV",الفجر الجديد 5
+https://cors-proxy.cooks.fyi/http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https%3A%2F%2Ftv.alfajertv.com%2Flive-westbank-5.php
+#EXTINF:0 CUID="81" tvg-name="SSC1_FHD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",SSC1_FHD
+http://93.123.72.138:8000/play/a002
+#EXTINF:0 CUID="83" tvg-name="SSC2_FHD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",SSC2_FHD
+http://93.123.72.138:8000/play/a003
+#EXTINF:0 CUID="85" tvg-name="SSC3_FHD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",SSC3_FHD
+http://93.123.72.138:8000/play/a004
+#EXTINF:0 CUID="86" tvg-name="SSC4_FHD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",SSC4_FHD
+http://93.123.72.138:8000/play/a005
+#EXTINF:0 CUID="87" tvg-name="SSC5_FHD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",SSC5_FHD
+http://93.123.72.138:8000/play/a006
+#EXTINF:0 CUID="17775" tvg-name="ssc 1 ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 1 ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/318.m3u8
+#EXTINF:0 CUID="17776" tvg-name="ssc 2 ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 2 ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/319.m3u8
+#EXTINF:0 CUID="17777" tvg-name="ssc 3 ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 3 ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/320.m3u8
+#EXTINF:0 CUID="17778" tvg-name="ssc 4 ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 4 ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/321.m3u8
+#EXTINF:0 CUID="17779" tvg-name="ssc 5 ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 5 ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/322.m3u8
+#EXTINF:0 CUID="17780" tvg-name="ssc 1 extra ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 1 extra ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/323.m3u8
+#EXTINF:0 CUID="17781" tvg-name="ssc 2 extra ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 2 extra ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/324.m3u8
+#EXTINF:0 CUID="17782" tvg-name="ssc 3 extra ᴴᴰ" tvg-logo="https://airmax.boats:443/images/5ff58cb582115da542b99eccca1fe452.png" group-title="SSC SPORT",ssc 3 extra ᴴᴰ
+https://airmax.boats/airmaxtv11live2052/liveairmax20255/325.m3u8
+#EXTINF:0 CUID="89" tvg-name="beIN_1_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_1_HD
+http://93.123.72.138:8000/play/a01p
+#EXTINF:0 CUID="90" tvg-name="beIN_1_SD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_1_SD
+http://93.123.72.138:8000/play/a00o
+#EXTINF:0 CUID="91" tvg-name="beIN_2_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_2_HD
+http://93.123.72.138:8000/play/a01q
+#EXTINF:0 CUID="92" tvg-name="beIN_2_SD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_2_SD
+http://93.123.72.138:8000/play/a00p
+#EXTINF:0 CUID="93" tvg-name="beIN_3_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_3_HD
+http://93.123.72.138:8000/play/a01r
+#EXTINF:0 CUID="94" tvg-name="beIN_3_SD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_3_SD
+http://93.123.72.138:8000/play/a00q
+#EXTINF:0 CUID="95" tvg-name="beIN_4_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_4_HD
+http://93.123.72.138:8000/play/a01s
+#EXTINF:0 CUID="96" tvg-name="beIN_4_SD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_4_SD
+http://93.123.72.138:8000/play/a00r
+#EXTINF:0 CUID="97" tvg-name="beIN_5_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_5_HD
+http://93.123.72.138:8000/play/a01t
+#EXTINF:0 CUID="98" tvg-name="beIN_5_SD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_5_SD
+http://93.123.72.138:8000/play/a00s
+#EXTINF:0 CUID="114" tvg-name="beIN_Alkass_1_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_1_HD
+http://93.123.72.138:8000/play/a014
+#EXTINF:0 CUID="115" tvg-name="beIN_Alkass_2_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_2_HD
+http://93.123.72.138:8000/play/a015
+#EXTINF:0 CUID="116" tvg-name="beIN_Alkass_3_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_3_HD
+http://93.123.72.138:8000/play/a016
+#EXTINF:0 CUID="117" tvg-name="beIN_Alkass_4_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_4_HD
+http://93.123.72.138:8000/play/a017
+#EXTINF:0 CUID="118" tvg-name="beIN_Alkass_5_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_5_HD
+http://93.123.72.138:8000/play/a018
+#EXTINF:0 CUID="119" tvg-name="beIN_Alkass_6_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_6_HD
+http://93.123.72.138:8000/play/a019
+#EXTINF:0 CUID="120" tvg-name="beIN_Alkass_7_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_7_HD
+http://93.123.72.138:8000/play/a01a
+#EXTINF:0 CUID="121" tvg-name="beIN_Alkass_8_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_8_HD
+http://93.123.72.138:8000/play/a01b
+#EXTINF:0 CUID="122" tvg-name="beIN_Alkass_9_HD" tvg-logo="https://vip-sport-ps.com/wp-content/uploads/2024/05/logo-vip-sport.webp" group-title="Sports Arabic VIP",beIN_Alkass_9_HD
+http://93.123.72.138:8000/play/a02p
+#EXTINF:0 CUID="14" tvg-name="LIVE 24 -0" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 1
+https://dffgtrdc.vffddd.online/bein22/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="15" tvg-name="LIVE 24 -0" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 2
+https://dffgtrdc.vffddd.online/bein22/index.m3u8
+#EXTINF:0 CUID="16" tvg-name="LIVE 24 -0" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 3
+https://dffgtrdc.vffddd.online/bein3/index.m3u8
+#EXTINF:0 CUID="17" tvg-name="LIVE 24 -0" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 4
+https://dffgtrdc.vffddd.online/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="18" tvg-name="LIVE 24 -0" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 5
+https://dffgtrdb.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="19" tvg-name="LIVE 24 -0" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 6
+https://dffgtrdb.vffddd.online/bein1/index.m3u8
+#EXTINF:0 CUID="20" tvg-name="LIVE 24 -01" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 7
+http://gr.seetv.cc/play/5016/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 CUID="21" tvg-name="LIVE 24 -02" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 8
+http://pl.seetv.cc/play/1101/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 CUID="22" tvg-name="LIVE 24 -03" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 9
+http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 CUID="23" tvg-name="LIVE 24 -04" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 10
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 CUID="24" tvg-name="LIVE 24 -05" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 11
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 CUID="25" tvg-name="LIVE 24 -06" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 12
+https://dffgtrdc.vffddd.online/bein4/index.m3u8
+#EXTINF:0 CUID="26" tvg-name="LIVE 24 -07" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 13
+https://dffgtrdc.vffddd.online/bein4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="27" tvg-name="LIVE 24 -08" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 14
+https://dffgtrdc.vffddd.online/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="28" tvg-name="LIVE 24 -09" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 15
+https://dffgtrdc.vffddd.online/bein1/index.m3u8
+#EXTINF:0 CUID="29" tvg-name="LIVE 24 -10" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 16
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8
+#EXTINF:0 CUID="30" tvg-name="LIVE 24 -11" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 17
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 CUID="31" tvg-name="LIVE 24 -012" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 18
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
+#EXTINF:0 CUID="32" tvg-name="LIVE 24 -013" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 19
+https://stream.live12.ir/hls2/ssc1.m3u8
+#EXTINF:0 CUID="33" tvg-name="LIVE 24 -014" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 20
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 CUID="34" tvg-name="LIVE 24 -015" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 21
+https://dffgtrdb.vffddd.online/bein3/index.m3u8
+#EXTINF:0 CUID="35" tvg-name="LIVE 24 -16" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 22
+https://dffgtrdb.vffddd.online/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="36" tvg-name="LIVE 24 -17" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 23
+https://dffgtrdb.vffddd.online:8880/bein4/index.m3u8
+#EXTINF:0 CUID="37" tvg-name="LIVE 24 -18" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 24
+https://dffgtrdb.vffddd.online/bein3/index.m3u8
+#EXTINF:0 CUID="38" tvg-name="LIVE 24 -19" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 25
+https://dffgtrdb.vffddd.online/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="39" tvg-name="LIVE 24 -20" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 26
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 CUID="40" tvg-name="LIVE 24 -21" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 27
+https://pepebong.online/live/3/chunks.m3u8
+#EXTINF:0 CUID="41" tvg-name="LIVE 24 -22" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 28
+https://dffgtrdc.vffddd.online/bein4/index.m3u8
+#EXTINF:0 CUID="42" tvg-name="LIVE 24 -23" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 29
+https://dffgtrdc.vffddd.online/bein4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 CUID="43" tvg-name="LIVE 24 -24" tvg-logo="https://bit.ly/4193wOv" group-title="BEIN SPORT بين سبور",LIVE AZIZ 30
+https://dffgtrdc.vffddd.online/bein4/tracks-v1a1/mono.ts.m3u8
+
