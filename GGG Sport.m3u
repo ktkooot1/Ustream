@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1,تصميم حسام البراك
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_5.m3u8
+
+#EXTINF:-1,https://t.me/Hussam_TVاشترك بقناتي
+https://h.top4top.io/m_31326etmz0.mkv
+
+#EXTINF:-1,beIN Sport 1HD
+https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein1/index.m3u8
+
+#EXTINF:-1,beIN Sport 2HD
+https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein2/index.m3u8
+
+#EXTINF:-1,beIN Sport 3HD
+https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein3/index.m3u8
+
+#EXTINF:-1,beIN Sport 4HD
+https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein4/index.m3u8
+
+#EXTINF:-1,beIN Sport 5HD
+https://bb.gggsjmjh756hgffreewguiijnbvcfg7.store:8181/bein5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS 1 HD
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1mhua/master540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS 2 HD
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass2hef/master540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS3 HD
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass3vak/master540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS 4 HD
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master450.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS 5 HD
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass5nnha/master540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS 6 HD
+https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass6buzay/master540.m3u8
+
+#EXTINF:-1,Turkey Sport
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
