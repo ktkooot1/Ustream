@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="VAR",VAR
+VAR.com
+#EXTINF:-1 group-title="VAR",https://t.me/var_app
+Var.com
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sport HD",beIN SP 1 HD
+http://cdnvine.com:8080/bn1hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein Sport HD",beIN SP 2 HD
+http://cdnvine.com:8080/bn2hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://162.19.30.106/logos/EX1.png" group-title="SSC SPORTS HD",SSC 1 EXTRA HD
+http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/58.m3u8
+#EXTINF:-1 tvg-logo="http://162.19.30.106/logos/1.png" group-title="SSC SPORTS HD",SSC 1 HD
+http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/53.m3u8
+#EXTINF:-1 tvg-logo="http://162.19.30.106/logos/2.png" group-title="SSC SPORTS HD",SSC 2 HD
+http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/54.m3u8
+#EXTINF:-1 tvg-logo="http://162.19.30.106/logos/3.png" group-title="SSC SPORTS HD",SSC 3 HD
+http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/55.m3u8
+#EXTINF:-1 tvg-logo="http://162.19.30.106/logos/4.png" group-title="SSC SPORTS HD",SSC 4 HD
+http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/56.m3u8
+#EXTINF:-1 tvg-logo="http://162.19.30.106/logos/5.png" group-title="SSC SPORTS HD",SSC 5 HD
+http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/57.m3u8
